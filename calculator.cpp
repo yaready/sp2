@@ -9,3 +9,13 @@ int Calculator::Sub (double a, double b)
 {
     return Add (a, -b);
 }
+// THIS IS
+// MY
+// CHANGE
+// FOR
+// 10
+// lines
+// ...
+// ...
+// ..
+// end
